@@ -30,3 +30,9 @@ Este proyecto forma parte de una práctica para aprender sobre el uso de **infra
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/TU_USUARIO/verificacion-contacto.git
+
+
+✨ Autor
+Proyecto desarrollado por FrankZurita
+💻 Estudiante de Ingeniería en Sistemas Computacionales
+🚀 Interesado en desarrollo web y tecnologías 
