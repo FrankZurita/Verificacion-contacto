@@ -5,7 +5,7 @@ import { getAuth, createUserWithEmailAndPassword, sendEmailVerification }
 
 // Tu configuración (la que ya tienes)
 const firebaseConfig = {
-  apiKey: "AIzaSyBc07PzTShQEw1_4G-vQbqI34aCYrHoStY",
+  apiKey: "APIKEY",
   authDomain: "verificacion-contacto.firebaseapp.com",
   projectId: "verificacion-contacto",
   storageBucket: "verificacion-contacto.appspot.com",
@@ -36,4 +36,5 @@ async function verificarCorreo() {
 }
 
 // Escuchar clic del botón
+
 document.getElementById("verifyBtn").addEventListener("click", verificarCorreo);
